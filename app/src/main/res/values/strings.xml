@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tab Layout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Favourite</string>
+    <string name="recents">Recent</string>
+    <string name="contacts">Contacts</string>
+    <string name="keypad">Keypad</string>
+    <string name="voicemail">Voicemail</string>
+    <string name="info">Info</string>
+    <string name="search">Search</string>
+    <string name="call_ended">call ended</string>
+    <string name="calling">calling</string>
+    <string name="video_call">Video Call</string>
+    <string name="add_call">Add Call</string>
+    <string name="speaker">Speaker</string>
+    <string name="mute">Mute</string>
+
+    <string-array name="contact_name">
+        <item>Abuzettin Nereleregittin</item>
+        <item>Ahmet Kuskus</item>
+        <item>Buse Yogi</item>
+        <item>Cafer Dayakçıoğlu</item>
+        <item>Cafer Palamutsever</item>
+        <item>Cenk Tosun</item>
+        <item>Dilara Rotbalansçıgil</item>
+        <item>DilaraSu Domates</item>
+        <item>Gürkan Palamutsever</item>
+        <item>Hasan Avludayatar</item>
+        <item>Muzaffer Bostancıgil</item>
+    </string-array>
+</resources>
